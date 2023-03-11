@@ -2,25 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: robotics and mobile autonomy • estimation, perception, and control
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile.jpg
+  image_circular: true # crops the image to make it circular
+  address: >
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: false  # includes a list of news items
+selected_projects: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate at MIT under the supervision of [Prof. Jonathan How](https://www.mit.edu/~jhow/) working in robotics and autonomous systems. My research focuses on solving challenging *data association* problems that frequently arise in fundamental estimation problems (e.g., localization, SLAM, calibration, multiple object tracking, multirobot map merging). I have developed algorithms that enable robust estimation in the presence of many outliers, even without an initial guess. These algorithms leverage graph theory, optimization, and manifold geometry.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+With extensive experience making real robots do real things, I have a knack for turning theory into practice. I have nearly a decade of experience in C++/Python for robotics and have been programming for nearly two decades. I am passionate about designing and implementing advanced algorithms and seeing the process through to deployment and evaluation in hardware. My technical expertise spans computer vision, geometry, control, linear algebra, optimization, and optimal estimation. I love sensors, making robots move, probabilistic robotics, navigation, dealing with uncertainty, maximum a posteriori formulations, and saying "on the manifold".
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received the M.S. in Electrical and Computer Engineering (2018) and the B.S. in Electrical Engineering (2016) from Brigham Young University, Provo, UT, where I was advised by [Prof. Randy Beard](https://ece.byu.edu/directory/randy-beard).
