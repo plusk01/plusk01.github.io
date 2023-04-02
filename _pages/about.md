@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: robotic estimation, perception, and control
+subtitle: robotics and mobile autonomy • estimation, perception, and control
 
 # profile:
 #   align: right
@@ -10,13 +10,12 @@ subtitle: robotic estimation, perception, and control
 #   image_circular: false # crops the image to make it circular
 #   address: >
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
+selected_projects: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate at MIT under the supervision of [Prof. Jonathan How](https://www.mit.edu/~jhow/) working in robotics and autonomous systems. My research focuses on solving challenging *data association* problems that frequently arise in fundamental estimation problems (e.g., localization, SLAM, calibration, multiple object tracking, multirobot map merging).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received the M.S. in Electrical and Computer Engineering (2018) and the B.S. in Electrical Engineering (2016) from Brigham Young University, Provo, UT, where I was advised by [Prof. Randy Beard](https://ece.byu.edu/directory/randy-beard).

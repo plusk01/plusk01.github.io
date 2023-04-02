@@ -3,7 +3,7 @@ github_users:
 
 github_repos:
   - mit-acl/clipper
-  - mit-acl/mixer
+  # - mit-acl/mixer
   - plusk01/Anticipated-VINS-Mono
   - plusk01/nonlinearquad
   - plusk01/se3quad
