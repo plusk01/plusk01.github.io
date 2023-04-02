@@ -48,7 +48,7 @@ layout: default
 
           <!-- Selected projects -->
           {% if page.selected_projects -%}
-            <h2><a href="{{ '/projects/' | relative_url }}" style="color: inherit;">selected projects</a></h2>
+            <h2 style="margin-bottom: 25px"><a href="{{ '/projects/' | relative_url }}" style="color: inherit;">selected projects</a></h2>
             {%- include selected_projects.html %}
           {%- endif %}
 

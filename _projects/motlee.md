@@ -1,9 +1,9 @@
 ---
 layout: page
-title: distributed object tracking
-description: VIO-based distributed formation flying using custom ADMM-based optimization solver.
-img: assets/img/aclswarm.png
-importance: 1
+title: multirobot object tracking
+description: Tracking moving objects from multiple robots in the presence of localization uncertainty.
+img: assets/img/redrovers.png
+importance: 3
 category: research
 selected: true
 ---
